@@ -26,7 +26,7 @@ body {
   height: 100vh;
   display: grid;
   grid:
-    "header header header header" 0.3fr
+    "header header header header" 0.31fr
     "galeria galeria formulario formulario" 1fr
     "footer_left footer_left footer_right footer_right" 0.3fr
     / 1fr 1fr 1fr 1fr;
